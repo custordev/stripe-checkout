@@ -1,0 +1,1 @@
+https://medium.com/@rakeshdhariwal61/integrating-stripe-payment-gateway-in-next-js-14-a-step-by-step-guide-1bd17d164c2c#:~:text=To%20seamlessly%20integrate%20Stripe%20payment,%2Fapi%2Fwebhooks%2Fcheckout%20.
