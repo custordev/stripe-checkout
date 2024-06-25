@@ -2,7 +2,7 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import toast from "react-hot-toast";
 
-interface CartItem {
+export interface CartItem {
   id: number;
   name: string;
   price: number;
@@ -10,7 +10,7 @@ interface CartItem {
   qty: number;
 }
 
-interface CartState {
+export interface CartState {
   cartItems: CartItem[];
 }
 

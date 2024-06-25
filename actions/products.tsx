@@ -5,7 +5,7 @@ import axios from "axios";
 
 export async function getAllProducts() {
   try {
-    const res = await axios.get("https://dummyjson.com/products?limit=12");
+    const res = await axios.get("https://dummyjson.com/products?limit=18");
     const products = res.data.products;
     return products as IProduct[];
   } catch (error) {
